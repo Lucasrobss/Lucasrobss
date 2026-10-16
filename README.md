@@ -38,7 +38,7 @@ de oportunidades de negócio.
 
 ### 🎸 Sons of Sun
 
-![Sons of Sun](sons-of-sun.png)
+![Sons of Sun](Sonsofsun.png)
 
 Website de uma banda de rock, com identidade
 visual personalizada, apresentação dos integrantes,
@@ -61,7 +61,7 @@ gastronômicos, cardápio e experiência do cliente.
 
 ### 🌶️ Dona Santos Cocina Mexicana
 
-![Dona Santos](donasantos.png)
+![Dona Santos](Donasantos.png)
 
 Projeto de presença digital para uma marca
 do segmento gastronômico.
@@ -72,7 +72,7 @@ do segmento gastronômico.
 
 ### 🌐 LucasFreeBuff
 
-![LucasFreeBuff](lucasfreebuff.png)
+![LucasFreeBuff](LucasTFA.png)
 
 Projeto web integrante do meu portfólio
 de criações digitais.
